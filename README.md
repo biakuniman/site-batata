@@ -1,3 +1,3 @@
-# https://biakuniman.github.io/site-batata/batata.html !
+# <https://biakuniman.github.io/site-batata/batata.html> !
  
-👉👉<a href"./batata.html">clik aqui</a>👈👈
+<https://biakuniman.github.io/site-batata/batata.html>
