@@ -1,0 +1,72 @@
+body, ul, li, p {
+
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    font-size: 1,2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    }
+
+
+
+
+
+    h1 {
+
+    text-align: center;
+    color: #000000;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+
+    u{
+
+        color: #000000;
+    }
+
+    a  {
+    color: rgb(255, 255, 255);
+    margin-left: 530px;
+    text-align: right;
+        }
+    
+    .header {
+    background-color: rgb(4, 128, 0);
+    display: flex;
+    padding: 20px;
+    text-align:  right;
+    font-size: 40px;
+    margin-top:     0px;
+    font-family: inherit;
+    }
+
+    h6 {
+
+        margin: 70px;
+
+    }
+
+  body {
+
+  background-color: rgb(253, 250, 84) ;
+  font-size: 30px;
+text-align: center;
+  }
+
+
+  img{
+    flex-wrap: wrap;
+    width: 50%;
+    height: 50%;
+   
+    
+  }
+
+    #grafico img {
+
+        width:  30%;
+        height: 100%;
+        margin-bottom: 100px;
+    }
